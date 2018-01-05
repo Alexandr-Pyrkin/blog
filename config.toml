@@ -1,4 +1,4 @@
-baseURL = "http://alexandr-pyrkin.github.io/"
+baseURL = "https://alexandr-pyrkin.github.io/"
 languageCode = "en-us"
 title = "Alexander Pyrkin"
 theme = "minimal"
@@ -49,9 +49,9 @@ googleAnalytics = ""
 [[menu.icon]]
     url = "https://www.linkedin.com/in/alexander-pyrkin-1b2694b1/"
     name = "linkedin"
-    weight = 3
+    weight = 4
 
 [[menu.icon]]
     url = "https://stackoverflow.com/users/4175583/alexander-pyrkin"
     name = "stack-overflow"
-    weight = 4
+    weight = 5
