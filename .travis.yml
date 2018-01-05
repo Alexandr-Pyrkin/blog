@@ -14,7 +14,7 @@ deploy:
   skip_cleanup: true  
   github_token: $GITHUB_TOKEN # Set GITHUB_TOKEN in travis-ci.org settings dashboard
   local_dir: public
-  repo: alexnadr-pyrkin/alexnadr-pyrkin.github.io
+  repo: alexandr-pyrkin/alexandr-pyrkin.github.io
   target_branch: master
   
   on:
