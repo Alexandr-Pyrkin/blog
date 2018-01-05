@@ -1,4 +1,4 @@
-baseURL = "https://alexandr-pyrkin.github.io/"
+baseURL = "https://a-pyrkin.github.io/"
 languageCode = "en-us"
 title = "Alexander Pyrkin"
 theme = "minimal"
@@ -8,7 +8,7 @@ googleAnalytics = ""
 [params]
     author = "Alexander Pyrkin"
     description = "from Minsk, Belarus"
-    githubUsername = "alexandr-pyrkin"
+    githubUsername = "a-pyrkin"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -42,7 +42,7 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/alexandr-pyrkin/"
+    url = "https://github.com/a-pyrkin/"
     name = "github"
     weight = 2
 
