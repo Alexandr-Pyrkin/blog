@@ -17,7 +17,7 @@ disqusShortname = "a-pyrkin"
 [params]
     author = "Alexander Pyrkin"
     description = "Alexander Pyrkin personal website"
-    keywords = "blog,developer,personal"
+    keywords = "blog,developer,personal,web"
     info = "Full Stack Developer"
 
     hideCredits = false
